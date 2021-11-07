@@ -4,7 +4,7 @@ public class Message {
 
 	private String content;
 	private String type;
-
+//vv
 	public Message(String content, String type) {
 		super();
 		this.content = content;
